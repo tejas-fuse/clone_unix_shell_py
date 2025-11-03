@@ -1,4 +1,4 @@
-![Progress Banner]([path/to/your/image.png](https://backend.codecrafters.io/progress/shell/07e7f534-a028-465d-a27c-3e3796e131b7))
+![Progress Banner](https://backend.codecrafters.io/progress/shell/07e7f534-a028-465d-a27c-3e3796e131b7)
 
 
 # clone_unix_shell_py
